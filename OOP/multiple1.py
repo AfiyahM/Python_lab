@@ -20,18 +20,6 @@ r =rect()
 print(r.area(11,23))
 print(r.peri(11,23))
     
-
-
-
-
-
-
-
-
-
-
-
-
 '''
 class Mammal:
     def mammal_info(self):
