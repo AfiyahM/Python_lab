@@ -14,8 +14,11 @@ class perimeter:
 
 
 class rect(area,perimeter):
-    a=area(11,12)
-    p=perimeter(11,12)
+   pass
+
+r =rect()
+print(r.area(11,23))
+print(r.peri(11,23))
     
 
 
